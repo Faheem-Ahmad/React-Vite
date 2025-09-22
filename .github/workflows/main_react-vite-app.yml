@@ -62,3 +62,4 @@ jobs:
           app-name: "React-Vite-App"
           slot-name: "Production"
           package: .
+          startup-command: ""
